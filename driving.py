@@ -10,4 +10,6 @@ elif country == 'USA':
     if age >= 16:
         print('You can get driver licence')
     else:
-        print('you can not get driver licence')    		
+        print('you can not get driver licence') 
+else:
+    print('You can only input Taiwan or USA')           		
